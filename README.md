@@ -1,10 +1,10 @@
 # css_Practice
 
-AS A marketing agency
+As a marketing agency
 
-I WANT a codebase that follows accessibility standards
+I want a codebase that follows accessibility standards
 
-SO THAT our own site is optimized for search engines
+So that our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -18,3 +18,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+![img1]()
