@@ -1,14 +1,17 @@
 * {
+    /*sets height and width */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
+    /*Sets background color */
     background-color: #d9dcd6;
 }
 
 .header {
+    /*setting header portion parameters */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -52,6 +55,7 @@ p {
 }
 
 .hero {
+    /*sets background parameters*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,7 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* .float defines position of images*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,13 +75,13 @@ p {
     margin-left: 25px;
     max-height: 200px;
 }
-
+/*Defines body positioning */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* .benefits section rules */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* .true section rules */
 .true {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,7 +121,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-;
+/* .footer section rules */
 .footer {
     padding: 30px;
     clear: both;
