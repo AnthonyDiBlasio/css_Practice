@@ -20,7 +20,7 @@ THEN I find a concise, descriptive title
 ```
 [URL](https://anthonydiblasio.github.io/css_Practice/)
 ![img](https://github.com/AnthonyDiBlasio/css_Practice/blob/main/01-html-css-git-homework-demo.png)
-![img1](https://github.com/AnthonyDiBlasio/css_Practice/blob/main/stylsheet1.jpg)
-![img2](https://github.com/AnthonyDiBlasio/css_Practice/blob/main/stylsheet2.jpg)
-![img3](https://github.com/AnthonyDiBlasio/css_Practice/blob/main/stylsheet3.jpg)
-![img4](https://github.com/AnthonyDiBlasio/css_Practice/blob/main/stylsheet4.jpg)
+![img1]()
+![img2]()
+![img3]()
+![img4]()
